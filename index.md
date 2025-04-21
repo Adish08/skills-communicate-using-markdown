@@ -13,6 +13,6 @@
 print ("Hellow world")
 
 ```
-- [] My first task
-- [] My second task
-- [] My third task
+- [ ] My first task
+- [ ] My second task
+- [x] My third task
